@@ -30,9 +30,13 @@ Home Page/Details Page/Settings Page/WatchLater Page<br>
 <img src="Mobile Settings.png" width = 30% height = 30%//>
 
 https://user-images.githubusercontent.com/77046944/158830378-8edbdc34-d2d3-4d82-ac8c-814f0197b714.mp4
+
 https://user-images.githubusercontent.com/77046944/158830490-bdd22a7e-984f-4403-ab4b-82efabce9891.mp4
+
 https://user-images.githubusercontent.com/77046944/158830632-b3fe05d4-fe14-4bda-a19c-8668f6b63490.mp4
+
 https://user-images.githubusercontent.com/77046944/158830780-4293b82d-4b3b-4a69-a903-bf88dc2e8667.mp4
+
 https://user-images.githubusercontent.com/77046944/158830975-808746d6-5713-4c4c-9adf-ae76f7060736.mp4
 
 
