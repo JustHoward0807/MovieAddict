@@ -1,0 +1,34 @@
+{   
+    "btnPlayTrailer": "播放預告片",
+
+    "detailsMovieIntroduction": "電影資訊",
+    "detailsTime": "Yahoo 時刻表",
+    "detailsMore": "更多",
+    "detailsMovies": "電影",
+
+    "homePopularMovie": "熱門電影",
+    "homeNewMovie": "最新電影",
+
+    "listAppBar": "全部電影",
+    "listSearchHintText": "輸入電影名稱",
+
+    "watchLaterAppBar": "收藏",
+    "watchLaterNoCollection": "沒有收藏",
+    
+    "navHome": "主頁",
+    "navList": "清單",
+    "navLater": "收藏",
+    "navSettings": "設定",
+
+    "settingsSignIn": "登入",
+    "settingsTheme": "主題",
+    "settingsLanguage": "語言",
+    "settingsNotification": "通知",
+    "settingsDeveloper": "創作者",
+    "settingsDonation": "斗內",
+    "settingsHelp": "幫助",
+    "settingsReport": "回報",
+    "settingsAbout": "關於",
+    "settingsAppBar": "設定"
+}
+

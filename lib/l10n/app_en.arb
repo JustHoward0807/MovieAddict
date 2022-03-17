@@ -1,0 +1,33 @@
+{
+    "btnPlayTrailer": "Play Trailer",
+
+    "detailsMovieIntroduction": "Introduction",
+    "detailsTime": "Yahoo Time",
+    "detailsMore": "More",
+    "detailsMovies": "Movies",
+
+    "homePopularMovie": "POPULAR MOVIES",
+    "homeNewMovie": "NEW MOVIES",
+
+    "listAppBar": "ALL MOVIES",
+    "listSearchHintText": "Enter Movie Name",
+
+    "watchLaterAppBar": "WATCH LATER",
+    "watchLaterNoCollection": "No Collection",
+
+    "navHome": "HOME",
+    "navList": "LIST",
+    "navLater": "WATCH LATER",
+    "navSettings": "SETTINGS",
+    
+    "settingsSignIn": "Sign in",
+    "settingsTheme": "Theme",
+    "settingsLanguage": "Language",
+    "settingsNotification": "Notification",
+    "settingsDeveloper": "Developer",
+    "settingsDonation": "Donation",
+    "settingsHelp": "Help",
+    "settingsReport": "Report",
+    "settingsAbout": "About APP",
+    "settingsAppBar": "SETTINGS"
+}
