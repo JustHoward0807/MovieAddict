@@ -22,7 +22,7 @@ Home Page/Details Page/Settings Page<br>
 <img src="Figma Settings.png" width="189" height="411"/>
 <br><br>
 ## Current Progress on android simulator
-Home Page/Details Page/Settings Page/WatchLater Page<br>
+Home Page/List Page/Details Page/WatchLater Page/Settings Page<br>
 <img src="Mobile Home.png" width = 30% height = 30%/>
 <img src="Mobile List.png" width = 30% height = 30%/>
 <img src="Mobile Details.png" width = 30% height = 30%//>
